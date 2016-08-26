@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_470cbb2cd91d94c5e6f5a45d4db41c9b4bb0b5d7/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9cd41a01cbde280474411145a7aa4ef737f0e486/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_cac657174a9713910409cfe4c4c6854dbaea4835/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_300f5e22f241899a55a2f5ee39f4c942b9564ade/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_b715c2c680a974bdb37f54eaaf2622f47b6df48b/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d6d0b92d789d3d56c3ee3e04c808ad59a645f3e6/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_fc1ca2051642a9ed32206c9a9e3f5a20d3f02c49/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_31b76fabf607c23673d4e111772bdd18eefccb6f/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="22bad0e3555e8c2df629dde995bd3e314718e9ca">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_baefbf581ddab40f00f74bf6b890fa9dd2e81167/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_322eb6873301fceae1904734af0e1c7c552f4d5c/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_081f42c76d2183cc4dcceaf4337787972a9f6aac/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_818f0c224351f3823dea6bc1329d65bce9bf84c6/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_9270507f124e55239b7f9f975c1ee1b8f3587874/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="436a7c6b6b4891905b9b6fbcab171138d58414ab">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f6c137ab3d3a8096a519284664b9b82d0b8b06e/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_5c27a605dad1cfb3bdc1abfe25b5d6e679b2954a/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_67ea1b2b34c9fd02b806e72ba72a7bab59532068/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_16abcfcd4484457c6eeff75f8ff504deb7f8f579/classes.dex" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc/classes.dex" />
+    </item>
+    <item
+        jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_a93f25601800d3b7e339423ac33c497813217056/classes.dex" />
+    </item>
+
+</items>
