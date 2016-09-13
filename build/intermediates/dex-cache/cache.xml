@@ -61,7 +61,7 @@
         jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="22bad0e3555e8c2df629dde995bd3e314718e9ca">
+        sha1="0de14401f0f104d13d4ab23e68f0b260d2cc4e81">
         <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_baefbf581ddab40f00f74bf6b890fa9dd2e81167/classes.dex" />
     </item>
     <item
@@ -96,7 +96,7 @@
         jar="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="436a7c6b6b4891905b9b6fbcab171138d58414ab">
+        sha1="5f7e1659fc72898dbbfc4c70de64b5a22408c1ee">
         <dex dex="/root/Documents/Troy/Documents/Android/Dabz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f6c137ab3d3a8096a519284664b9b82d0b8b06e/classes.dex" />
     </item>
     <item

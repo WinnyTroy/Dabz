@@ -1,0 +1,59 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"></head><body>
+        <script language="javascript" type="text/javascript">
+        var scr = document.createElement('script');
+        var thisurl=window.location.href;
+
+        scr.src = "http://www.staticamzn.com/gp/loader/jsonp?c=assoc_retail_asset_preload&t=d";
+
+        try {
+            document.body.appendChild(scr);
+        } catch (e) {}
+
+        function assoc_retail_asset_preload(urls) {
+            var regcss=/\.css$/;
+            var regjs=/\.js$/;
+            var reghttp=/^http:\/\/.-ecx.images-amazon.com/;
+            var sslurl=null;
+            var thisurl=window.location.href;
+            var isssl=0;
+
+            if (thisurl.match(/^https:\/\//))
+            {
+                isssl=1;
+            }
+
+            for (var i = 0; i < urls.length; i++) {
+               var url = urls[i];
+               var scr = null;
+
+               if (isssl)
+               {
+                  sslurl = url.replace(/^http:\/\/.-ecx.images-amazon.com/g, "https://images-na.ssl-images-amazon.com");
+               }
+               else
+               {
+                  sslurl = url;
+               }
+
+               if (sslurl.match(regcss))
+               {
+                    scr = document.createElement('link');
+                    scr.type = 'text/css';
+                    scr.href = sslurl;
+                    scr.rel = 'stylesheet';
+               }
+               else if (sslurl.match(regjs))
+               {
+                    scr = document.createElement('script');
+                    scr.type = 'text/javascript';
+                    scr.src = sslurl;
+               }
+               document.body.appendChild(scr);
+            }
+        }
+
+  </script><script src="preload_retail_asset_data/jsonp"></script>
+
+
+</body></html>

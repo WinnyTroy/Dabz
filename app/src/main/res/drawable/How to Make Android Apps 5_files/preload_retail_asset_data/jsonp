@@ -1,0 +1,16 @@
+
+
+
+
+assoc_retail_asset_preload([
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/twisterCriticalJSMerged/twisterCriticalJSMerged-28581._V1_.js",
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/search-js-general/search-js-general-1639576663._V1_.js",
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/dpProductImage/dpProductImage-2900646310._V1_.js",
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/tmpMasterDPMergedCSS-US/tmpMasterDPMergedCSS-US-10142221368._V1_.css",
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/search-css/search-css-142123364._V1_.css",
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-6800426958._V1_.css",
+"https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/site-wide-js-1.2.6-beacon/site-wide-3750999928._V1_.js"
+]
+);
+
+

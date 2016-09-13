@@ -19,20 +19,11 @@ public class landing extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_landing);
+
+        
             }
 
-    public void sendMessage(View view){
 
-        Intent move = new Intent(this, next.class);
-
-        EditText editText =(EditText) findViewById(R.id.edit_message);
-
-        String message = editText.getText().toString();
-
-        move.putExtra(EXTRA_MESSAGE,message);
-
-        startActivity(move);
-    }
 
     }
 
